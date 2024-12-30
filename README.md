@@ -1,3 +1,10 @@
+## Team Members
+
+- **Andújar Sánchez, Enrique**  
+- **Esgleas Tafalla, Joan**  
+- **Guillamón Chávez, Gabriel**  
+- **Morente Alcober, Pau**
+
 # Product Distribution in a Supermarket
 
 We have a supermarket, and we want to find the optimal distribution of products to maximize customer purchases. To achieve this, we will assume that the probability of a customer buying a product increases if that product is placed next to a related product (e.g., if someone is buying beer and sees chips nearby, they are more likely to remember to buy them). We also assume that every pair of products has a degree of similarity or relationship, which the user knows and can provide.
